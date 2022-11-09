@@ -1,1 +1,1 @@
-# euler-test
+Open index.html file and look dev at console
